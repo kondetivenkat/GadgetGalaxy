@@ -1,2 +1,2 @@
-# E-Commerce
- e commerce web application
+# E-commerceApp
+e-commerce website
