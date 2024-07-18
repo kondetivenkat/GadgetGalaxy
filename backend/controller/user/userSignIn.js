@@ -39,15 +39,11 @@ async function userSignInController(req,res){
             success : true,
             error : false
         })
+        
 
        }else{
          throw new Error("Please check Password")
        }
-
-
-
-
-
 
 
     }catch(err){
